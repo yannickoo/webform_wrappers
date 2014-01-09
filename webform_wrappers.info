@@ -1,0 +1,4 @@
+name = Webform Wrappers
+description = Allows you to wrap Webform components with a HTML element.
+core = 7.x
+dependencies[] = webform
