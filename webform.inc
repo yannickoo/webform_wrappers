@@ -83,7 +83,7 @@ function _webform_render_wrapper($component, $value = NULL, $filter = TRUE) {
     '#type' => 'markup',
     '#weight' => $component['weight'],
     '#prefix' => '<' . $component['extra']['element'] . $attributes . '>',
-    '#suffix' => '</' . $component['extra']['element'] . '>',
+    '#suffix' => '</' . $component['extra']['element'] . '> ',
     '#webform_component' => $component,
   );
 
