@@ -9,7 +9,8 @@ INTRODUCTION
 ------------
 
 Current Maintainers:
-  Yannick Leyendecker (http://drupal.org/user/531118)
+
+* [yannickoo](http://drupal.org/user/531118)
 
 Allows you to wrap Webform components with a HTML element.
 
