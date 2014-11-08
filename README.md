@@ -1,22 +1,12 @@
-CONTENTS OF THIS FILE
----------------------
-
- * Introduction
- * Installation
-
-
-INTRODUCTION
-------------
+# Introduction
 
 Current Maintainers:
 
-* [yannickoo](http://drupal.org/user/531118)
+* [yannickoo](https://www.drupal.org/u/yannickoo)
 
 Allows you to wrap Webform components with a HTML element.
 
-
-INSTALLATION
-------------
+# Installation
 
 1. Install the module the drupal way [1]
 
